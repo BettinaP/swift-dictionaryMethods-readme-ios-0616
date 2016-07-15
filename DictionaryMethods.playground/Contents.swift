@@ -68,7 +68,7 @@ if var films = movies["The Fast and the Furious"] {
     films.append("Faster! 9")
     films.append("THE FASTEST 10")
     
-    movies["The Fast and the Furious"] = films
+    movies["The Fast and the Furious "] = films
 }
 
 if let fastMovies = movies["The Fast and the Furious"] {
